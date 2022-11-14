@@ -23,4 +23,9 @@ nav .navbar{
     background-repeat: no-repeat;
     background-size: cover;
 }
-    
+.games{
+    background-color: #1f1f1f;
+} 
+.ps-plus-section{
+    background-color: #bebcbb;
+}
