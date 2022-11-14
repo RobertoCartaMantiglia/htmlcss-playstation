@@ -8,3 +8,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+div .card{
+    background: none;
+    color: white;
+    border: none;
+}
+nav .navbar{
+    padding-top: 120px;
+}
