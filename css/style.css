@@ -1,6 +1,10 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+footer{
+    background-color: #00439c;
+    color: white;
+}
 .jumbotron-section{
     background-image: url("../img/jumbo-bg.png");
     height: 500px;
@@ -31,4 +35,10 @@ nav .navbar{
 }
 .ps-now-section{
     background-color: #161c3b;
+}
+.footer-list a{
+    text-decoration: none;
+    color: white;
+    line-height: 2rem;
+    font-weight: 300;
 }
