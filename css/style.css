@@ -20,6 +20,18 @@ div .card{
 nav .navbar{
     padding-top: 120px;
 }
+.titolo{
+    font-size: 3rem;
+}
+.secondary-title{
+    font-size: 2.5rem;
+}
+.section-gap{
+    margin-bottom: 5rem;
+}
+.paragraph{
+    margin-bottom: 3.5rem;
+}
 .second-jumbotron-section{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     height: 500px;
