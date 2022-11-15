@@ -7,10 +7,10 @@ footer{
 }
 .jumbotron-section{
     background-image: url("../img/jumbo-bg.png");
-    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 300px;
 }
 div .card{
     background: none;
