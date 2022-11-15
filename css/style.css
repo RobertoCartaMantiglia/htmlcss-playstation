@@ -32,6 +32,9 @@ nav .navbar{
 .paragraph{
     margin-bottom: 3.5rem;
 }
+.paragraph-title{
+    font-size: 2.2rem;
+}
 .second-jumbotron-section{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-position: center;
