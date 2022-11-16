@@ -46,6 +46,12 @@ nav .navbar{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.game,
+.underline,
+.social,
+.tools{
+    transition: 0.1s;
+}
 .games{
     background-color: #1f1f1f;
 } 
@@ -60,4 +66,18 @@ nav .navbar{
     color: white;
     line-height: 2rem;
     font-weight: 300;
+}
+
+
+
+/* HOOOVER  */
+.game:hover{
+    padding: 3px;
+    border: 2px solid #0070d1;
+}
+.underline:hover{
+    border-bottom: 2px solid #0070d1;
+}
+.social:hover{
+    transform: scale(0.9);
 }
