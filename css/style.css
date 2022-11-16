@@ -77,7 +77,11 @@ nav .navbar{
 }
 .underline:hover{
     border-bottom: 2px solid #0070d1;
+    transform: scale(1.1);
 }
 .social:hover{
     transform: scale(0.9);
+}
+.tools{
+    color: #0070d1;
 }
